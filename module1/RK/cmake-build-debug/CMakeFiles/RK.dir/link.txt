@@ -1,3 +1,0 @@
-C:\Users\persh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\RK.dir/objects.a
-C:\Users\persh\Desktop\mingw\MINGW\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\RK.dir/objects.a @CMakeFiles\RK.dir\objects1.rsp
-C:\Users\persh\Desktop\mingw\MINGW\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RK.dir/objects.a -Wl,--no-whole-archive  -o RK.exe -Wl,--out-implib,libRK.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RK.dir\linklibs.rsp

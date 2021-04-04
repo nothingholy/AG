@@ -1,3 +1,0 @@
-C:/Users/persh/Desktop/Study/AG/module1/RK/cmake-build-debug/CMakeFiles/RK.dir
-C:/Users/persh/Desktop/Study/AG/module1/RK/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/persh/Desktop/Study/AG/module1/RK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
