@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/persh/Desktop/Study/AG/module1/RK/main.cpp
+iostream
+-
+queue
+-
+vector
+-
+algorithm
+-
+

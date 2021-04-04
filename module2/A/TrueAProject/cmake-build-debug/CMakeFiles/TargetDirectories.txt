@@ -1,0 +1,3 @@
+C:/Users/persh/Desktop/Study/AG/module2/A/TrueAProject/cmake-build-debug/CMakeFiles/TrueAProject.dir
+C:/Users/persh/Desktop/Study/AG/module2/A/TrueAProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/persh/Desktop/Study/AG/module2/A/TrueAProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

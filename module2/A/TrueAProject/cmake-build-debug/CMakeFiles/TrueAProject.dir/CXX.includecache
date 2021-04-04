@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/persh/Desktop/Study/AG/module2/A/TrueAProject/A.cpp
+iostream
+-
+vector
+-
+cmath
+-
+string
+-
+algorithm
+-
+
